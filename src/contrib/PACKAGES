@@ -1,9 +1,8 @@
 Package: myUtils
-Version: 0.0.0.9002
+Version: 0.0.0.9003
 Depends: R(>= 3.5.0)
-Imports: dplyr, tidyr, tidyselect, rlang, quitte, pbapply, parallel,
-        magclass
+Imports: dplyr, tidyr, tidyselect, purrr, rlang, quitte, pbapply, parallel, magclass
 Suggests: testthat
 License: CC0
-MD5sum: 34bc22dab5b2ab0eaccd04f3641ebb47
+MD5sum: 5f1abeb93c821951737491b492626e2e
 NeedsCompilation: no
