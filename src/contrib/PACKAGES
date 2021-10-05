@@ -1,8 +1,9 @@
 Package: myUtils
-Version: 0.0.0.9006
+Version: 0.0.0.9007
 Depends: R(>= 3.5.0)
-Imports: dplyr, tidyr, tidyselect, ggplot2, purrr, rlang, quitte, pbapply, parallel, magclass, shiny, networkD3
+Imports: dplyr, tidyr, tidyselect, ggplot2, purrr, rlang, quitte, pbapply, parallel, magclass, magrittr, shiny,
+            networkD3
 Suggests: testthat
 License: CC0
-MD5sum: c0ff998718a2e2c1f622510cd027001b
+MD5sum: b2988d90a0f3bee7f322baa60271a224
 NeedsCompilation: no
